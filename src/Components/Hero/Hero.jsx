@@ -13,7 +13,7 @@ const Hero = () => {
     }
     return (
         <div id='home' className='hero'>
-            <img src="/src/assets/rohani.jpg" alt="profile" />
+            <img src="/src/assets/rohanprofilenb.png" alt="profile" />
             <h1><span>I'm Rohan Sethi,</span> frontend developer</h1>
             <p>I am a fresher frontend developer from odisha,India</p>
             <div className="hero-action">
