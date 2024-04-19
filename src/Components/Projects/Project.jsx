@@ -85,8 +85,8 @@ const Project = () => {
 
                     <button className="arrow next" onClick={shiftLeftp2}>&gt;</button>
                 </div>
-                <div className="projectContent"> <p>StayHub is a user-centric hotel booking platform committed to providing a delightful and convenient experience for travelers exploring the beauty of Switzerland. Our platform boasts a diverse range of accommodations to suit every traveler's preferences, from intimate bed and breakfasts to opulent hotels offering top-notch amenities.</p>
-                    <p>Tech Stacks: Redux, Html-css-javascript,  Tailwind CSS,Bootstrap,Scss</p></div>
+                <div className="projectContent"> <p className="projectContent-p">StayHub is a user-centric hotel booking platform committed to providing a delightful and convenient experience for travelers exploring the beauty of Switzerland. Our platform boasts a diverse range of accommodations to suit every traveler's preferences, from intimate bed and breakfasts to opulent hotels offering top-notch amenities.</p>
+                    <p className="projectContent-p">Tech Stacks: Redux, Html-css-javascript,  Tailwind CSS,Bootstrap,Scss</p></div>
             </div>
             <div className="projectbtn">
                 <div className="deployeedLink" onClick={() => redirectToDeployLink2()} >Deploy Link</div>

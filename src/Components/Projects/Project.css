@@ -38,7 +38,7 @@
 .arrow {
     position: absolute;
     top: 50%;
-    
+  
     background: rgba(255, 255, 255, 0.5);
     border: none;
     cursor: pointer;
@@ -115,7 +115,7 @@
         font-weight: 500;
     }
     .projectContent-p{
-        font-size: 14px;
+        font-size: 16px;
     }
     .project-2 h2{
         font-size: 35px;

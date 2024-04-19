@@ -68,9 +68,9 @@
 }
 .contact-right input{
     border: none;
-    width: 700px;
-    height: 78px;
-    padding-left: 20px;
+    /* width: 700px;
+    height: 78px; */
+    padding: 25px 20px;
     border-radius: 4px;
     background: #32323c;
     color: #A0A0A0;
